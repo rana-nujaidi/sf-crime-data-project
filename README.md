@@ -8,3 +8,13 @@ All screenshots are attached
 
 
 # Producer
+![Producer output](Consumer_Consle_Output.png)
+
+# Consumer 
+![Consumer output](Consumer_server_output.png)
+
+# Data Streaming - Spark 
+![Consumer output](Streaming output.png)
+
+# Spark Count 
+![Consumer output](Count Output.png)
