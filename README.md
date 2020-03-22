@@ -14,7 +14,7 @@ All screenshots are attached
 ![Consumer output](Consumer_server_output.png)
 
 # Data Streaming - Spark 
-![Consumer output](Streaming output.png)
+![Data Streaming output](Streaming output.png)
 
 # Spark Count 
-![Consumer output](Count Output.png)
+![Count output](Count Output.png)
